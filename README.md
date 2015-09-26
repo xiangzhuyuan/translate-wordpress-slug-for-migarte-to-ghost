@@ -19,9 +19,9 @@ you need a google translation api key
 
 > https://console.developers.google.com
 
-## put your post source under `json_file` directory
-## change a little bit code in `main.rb`
-## exec the code
-## get result from `result` directory.
+- put your post source under `json_file` directory
+- change a little bit code in `main.rb`
+- exec the code
+- get result from `result` directory.
 
 DONE!
